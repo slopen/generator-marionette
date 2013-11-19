@@ -1,7 +1,7 @@
 {
   "name" : "generator-marionette-less",
   "description": "Yeoman generator for Express, Marionette, Backbone with AMD, LESS compiler",
-  "version" : "0.1.0",
+  "version" : "0.1.1",
   "keywords": [
     "yeoman-generator",
     "yeoman",
