@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"__",
+				"__dirname"
+			],
+			[
 				"font-family-",
 				"font-family-Open-Sans"
 			],
@@ -510,28 +514,62 @@
 			[
 				"queu",
 				"queueProductScrape"
-			],
-			[
-				"produ",
-				"productReviews"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tmpl/index.js",
+			"settings":
+			{
+				"buffer_size": 843,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 2355 files for \"marionette-less\"\n\n/Users/me6/Documents/generator-marionette-less/generator-marionette-less.sublime-project:\n    4  		{\n    5  			\"follow_symlinks\": true,\n    6: 			\"path\": \"/Users/me6/Documents/generator-marionette-less\"\n    7  		}\n    8  	]\n\n/Users/me6/Documents/generator-marionette-less/npm-debug.log:\n   18  6 error System Darwin 13.0.0\n   19  7 error command \"/usr/local/Cellar/node/0.10.21/bin/node\" \"/usr/local/bin/npm\" \"link\" \"-g\"\n   20: 8 error cwd /Users/me6/Documents/generator-marionette-less\n   21  9 error node -v v0.10.21\n   22  10 error npm -v 1.3.11\n\n/Users/me6/Documents/generator-marionette-less/package.json:\n    1  {\n    2:   \"name\" : \"generator-marionette-less\",\n    3    \"description\": \"Yeoman generator for Express, Marionette, Backbone with AMD, LESS compiler\",\n    4    \"version\" : \"0.1.1\",\n\n/Users/me6/Documents/generator-marionette-less/README.md:\n    1: generator-marionette-less\n    2  ======================\n    3  \n    .\n   99  Install marionette generator\n  100  \n  101:     $ npm install (-g) generator-marionette-less\n  102  \n  103  \n\n5 matches across 4 files\n\n\nSearching 2355 files for \"generator-marionette-less\"\n\n/Users/me6/Documents/generator-marionette-less/generator-marionette-less.sublime-project:\n    4  		{\n    5  			\"follow_symlinks\": true,\n    6: 			\"path\": \"/Users/me6/Documents/generator-marionette-less\"\n    7  		}\n    8  	]\n\n/Users/me6/Documents/generator-marionette-less/npm-debug.log:\n   18  6 error System Darwin 13.0.0\n   19  7 error command \"/usr/local/Cellar/node/0.10.21/bin/node\" \"/usr/local/bin/npm\" \"link\" \"-g\"\n   20: 8 error cwd /Users/me6/Documents/generator-marionette-less\n   21  9 error node -v v0.10.21\n   22  10 error npm -v 1.3.11\n\n/Users/me6/Documents/generator-marionette-less/package.json:\n    1  {\n    2:   \"name\" : \"generator-marionette-less\",\n    3    \"description\": \"Yeoman generator for Express, Marionette, Backbone with AMD, LESS compiler\",\n    4    \"version\" : \"0.1.1\",\n\n/Users/me6/Documents/generator-marionette-less/README.md:\n    1: generator-marionette-less\n    2  ======================\n    3  \n    .\n   99  Install marionette generator\n  100  \n  101:     $ npm install (-g) generator-marionette-less\n  102  \n  103  \n\n5 matches across 4 files\n",
+			"settings":
+			{
+				"buffer_size": 2254,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "npm-debug.log",
+			"settings":
+			{
+				"buffer_size": 1141,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 147.0,
 		"selected_items":
 		[
 			[
-				"push curre",
+				"push cur",
 				"Git: Push Current Branch"
 			],
 			[
-				"quic add",
+				"quick com",
+				"Git: Quick Commit"
+			],
+			[
+				"quick ad",
 				"Git: Quick Add"
 			],
 			[
@@ -539,12 +577,28 @@
 				"Git: Quick Add"
 			],
 			[
-				"push cure",
+				"git tag",
+				"Git: Add Tag"
+			],
+			[
+				"push curr",
 				"Git: Push Current Branch"
 			],
 			[
-				"quick com",
-				"Git: Quick Commit"
+				"push curre",
+				"Git: Push Current Branch"
+			],
+			[
+				"push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"quic add",
+				"Git: Quick Add"
+			],
+			[
+				"push cure",
+				"Git: Push Current Branch"
 			],
 			[
 				"quiadd",
@@ -563,10 +617,6 @@
 				"Git: Push Current Branch"
 			],
 			[
-				"quick ad",
-				"Git: Quick Add"
-			],
-			[
 				"quick ",
 				"Git: Quick Commit"
 			],
@@ -581,10 +631,6 @@
 			[
 				"qui com",
 				"Git: Quick Commit"
-			],
-			[
-				"push curr",
-				"Git: Push Current Branch"
 			],
 			[
 				"quickad",
@@ -829,6 +875,18 @@
 	},
 	"file_history":
 	[
+		"/Users/me6/Documents/generator-marionette-less/README.md",
+		"/Users/me6/Documents/generator-marionette-less/generator-marionette-less.sublime-project",
+		"/Users/me6/Documents/generator-marionette-less/.npmignore",
+		"/Users/me6/Documents/generator-marionette-less/.gitignore",
+		"/Users/me6/Documents/generator-marionette-less/app/templates/server/app.js",
+		"/Users/me6/Documents/generator-marionette-less/app/templates/_package.json",
+		"/Users/me6/Documents/generator-marionette-less/app/index.js",
+		"/Users/me6/Documents/generator-marionette-less/app/templates/Gruntfile.js",
+		"/Users/me6/Documents/generator-marionette-less/app/templates/app/main.less",
+		"/Users/me6/Documents/generator-marionette-less/package.json",
+		"/Users/me6/Documents/generator-marionette-less/test/tests.js",
+		"/Users/me6/Documents/generator-marionette-less/app/templates/gitignore",
 		"/Users/me6/Documents/myhq/todo.gl/package.json",
 		"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups/main_notifications_rejected_task_view.html",
 		"/Users/me6/Documents/myhq/todo.gl/.gitignore",
@@ -944,19 +1002,7 @@
 		"/Users/me6/Documents/munbid.application/app/templates/item/Transaction.View.hbs",
 		"/Users/me6/Documents/munbid.application/app/templates/item/Auction.Detail.View.hbs",
 		"/Users/me6/Documents/munbid.application/app/scripts/controllers/App.Login.Controller.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Auction.Detail.View.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/models/Account.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/init.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/views/layout/Balance.Layout.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Transaction.View.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/template/helpers/paymentstate.js",
-		"/Users/me6/Documents/munbid.application/bower.json",
-		"/Users/me6/Documents/munbid.application/app/scripts/commands.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/i18n/es_MX.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/i18n/en_US.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/template/helpers/Date.js",
-		"/Users/me6/Documents/munbid.application/app/scripts/models/BidBalance.js",
-		"/Users/me6/Documents/munbid.application/app/templates/Transactions.View.hbs"
+		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Auction.Detail.View.js"
 	],
 	"find":
 	{
@@ -967,6 +1013,7 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"/Users/me6/Documents/generator-marionette-less",
 			"/Users/me6/Documents/myhq/todo.gl/package.json",
 			"*package.json",
 			"/Users/me6/Documents/myhq/todo.gl/app/styles/",
@@ -1030,6 +1077,30 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"generator-marionette-less",
+			"marionette-less",
+			"NamedBase",
+			"marionette-less",
+			"reload",
+			"css",
+			"copy",
+			"mainStylesheet",
+			"app",
+			"yeoman.app",
+			"root",
+			"express",
+			"props",
+			"_rootDir",
+			"this",
+			"bowerDire",
+			"port",
+			"compass",
+			"else",
+			"useBaucis",
+			"useMongoose",
+			"marionette",
+			"mrichard",
+			"generator-marionette",
 			"yeoman.app",
 			"testserver",
 			"serverOptions",
@@ -1133,38 +1204,16 @@
 			"@img-path",
 			"(@img-path",
 			"(img-path",
-			"img-path",
-			"../../img/",
-			"sidebar-toggler",
-			"side",
-			"side-b",
-			"span",
-			"todo.gl",
-			"user",
-			"navbar",
-			"spinner",
-			"fa-css-prefix",
-			"spin",
-			"fa-",
-			"device-width",
-			"icon-",
-			"alpha",
-			"alpha	",
-			"alpha",
-			".css",
-			"css",
-			"responsive",
-			"css",
-			"page",
-			" 7",
-			"icon-bar"
+			"img-path"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": true,
+		"regex": false,
 		"replace_history":
 		[
+			"generator-marionette",
+			"generator-marionette-less",
 			"$1$2x\"",
 			"fa-cog",
 			"Robert Lemmens",
@@ -1185,14 +1234,180 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tmpl/index.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2254,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										230,
+										245
+									],
+									[
+										515,
+										530
+									],
+									[
+										693,
+										708
+									],
+									[
+										919,
+										934
+									],
+									[
+										1063,
+										1078
+									],
+									[
+										1353,
+										1378
+									],
+									[
+										1638,
+										1663
+									],
+									[
+										1816,
+										1841
+									],
+									[
+										2042,
+										2067
+									],
+									[
+										2186,
+										2211
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								1363,
+								1363
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 525.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "npm-debug.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -1241,7 +1456,7 @@
 	{
 		"height": 100.0
 	},
-	"project": "generator-marionette-less.sublime-project",
+	"project": "generator-marionette.sublime-project",
 	"replace":
 	{
 		"height": 64.0
@@ -1253,8 +1468,32 @@
 		"selected_items":
 		[
 			[
+				"grun",
+				"app/templates/Gruntfile.js"
+			],
+			[
 				"package",
 				"package.json"
+			],
+			[
+				"_package",
+				"app/templates/_package.json"
+			],
+			[
+				"gruntfiles",
+				"app/templates/Gruntfile.js"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"gitigno",
+				".gitignore"
+			],
+			[
+				"gitignor",
+				"app/templates/gitignore"
 			],
 			[
 				".gitigno",
@@ -1439,10 +1678,6 @@
 			[
 				"auction.layou",
 				"app/templates/layout/Auction.Layout.hbs"
-			],
-			[
-				"gitigno",
-				".gitignore"
 			],
 			[
 				"bidbalancontrol",
@@ -1743,26 +1978,6 @@
 			[
 				"balanchs",
 				"app/templates/layout/Balance.Layout.hbs"
-			],
-			[
-				"balancelayout.js",
-				"app/scripts/views/layout/Balance.Layout.js"
-			],
-			[
-				"balancecontroller",
-				"app/scripts/controllers/Balance.View.Controller.js"
-			],
-			[
-				"balancehbs",
-				"app/templates/layout/Balance.Layout.hbs"
-			],
-			[
-				"packageviewjs",
-				"app/scripts/views/item/Bid.Package.View.js"
-			],
-			[
-				"buybids.controll",
-				"app/scripts/controllers/BuyBids.Controller.js"
 			]
 		],
 		"width": 0.0

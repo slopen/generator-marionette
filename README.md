@@ -1,4 +1,4 @@
-generator-marionette-less
+generator-marionette
 ======================
 
 Yeoman generator for Express, Marionette and Backbone with AMD
@@ -98,7 +98,7 @@ Install mocha generator:
 
 Install marionette generator
 
-    $ npm install (-g) generator-marionette-less
+    $ npm install (-g) generator-marionette
 
 
 
