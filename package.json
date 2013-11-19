@@ -17,7 +17,7 @@
   "author": "José Oliveros (clone of backbone amd generator)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joliveros/generator-marionette-less.git"
+    "url": "git+ssh://joliveros@github.com/generator-marionette-less.git"
   },
   "dependencies": {
     "yeoman-generator": "git://github.com/mrichard/generator.git",

@@ -13,11 +13,15 @@ function Generator(args, options, config) {
 
   this.templateFramework = 'handlebars';
 
-  this.hookFor(this.testFramework, { as: 'app' });
+  this.hookFor(this.testFramework, {
+    as: 'app'
+  });
 
-  this.on('end', function () {
+  this.on('end', function() {
     if (['app', 'backbone', 'marionette'].indexOf(this.generatorName) >= 0) {
-      this.installDependencies({ skipInstall: this.options['skip-install'] });
+      this.installDependencies({
+        skipInstall: this.options['skip-install']
+      });
     }
   });
 }
@@ -29,15 +33,15 @@ Generator.prototype.askFor = function askFor() {
 
   // welcome message
   var welcome =
-  '\n     _-----_' +
-  '\n    |       |' +
-  '\n    |' + chalk.red('--(o)--') + '|   .--------------------------.' +
-  '\n   `---------´  |    ' + chalk.yellow.bold('Welcome to Yeoman') + ',    |' +
-  '\n    ' + chalk.yellow('(') + ' _' + chalk.yellow('´U`') + '_ ' + chalk.yellow(')') + '   |   ' + chalk.yellow.bold('ladies and gentlemen!') + '  |' +
-  '\n    /___A___\\   \'__________________________\'' +
-  '\n     ' + chalk.yellow('|  ~  |') +
-  '\n   __' + chalk.yellow('\'.___.\'') + '__' +
-  '\n ´   ' + chalk.red('`  |') + '° ' + chalk.red('´ Y') + ' `\n';
+    '\n     _-----_' +
+    '\n    |       |' +
+    '\n    |' + chalk.red('--(o)--') + '|   .--------------------------.' +
+    '\n   `---------´  |    ' + chalk.yellow.bold('Welcome to Yeoman') + ',    |' +
+    '\n    ' + chalk.yellow('(') + ' _' + chalk.yellow('´U`') + '_ ' + chalk.yellow(')') + '   |   ' + chalk.yellow.bold('ladies and gentlemen!') + '  |' +
+    '\n    /___A___\\   \'__________________________\'' +
+    '\n     ' + chalk.yellow('|  ~  |') +
+    '\n   __' + chalk.yellow('\'.___.\'') + '__' +
+    '\n ´   ' + chalk.red('`  |') + '° ' + chalk.red('´ Y') + ' `\n';
 
   console.log(welcome);
   console.log('Out of the box I include HTML5 Boilerplate, jQuery, Backbone.js, Marionette, Handlebars, Require and Modernizr.');
@@ -47,15 +51,14 @@ Generator.prototype.askFor = function askFor() {
     type: 'confirm',
     name: 'isFullApp',
     message: 'Would you like to install the full express app or simply the marionette generators?'
-  },
-  {
+  }, {
     type: 'string',
     name: 'bowerDirectory',
     message: 'Where do you want the Bower components installed?',
     default: 'bower_components'
   }];
 
-  this.prompt(prompts, function (props) {
+  this.prompt(prompts, function(props) {
     // manually deal with the response, get back and store the results.
     // we change a bit this way of doing to automatically do this in the self.prompt() method.
     this.isFullApp = props.isFullApp;
@@ -67,25 +70,25 @@ Generator.prototype.askFor = function askFor() {
 };
 
 Generator.prototype.git = function git() {
-  if( this.isFullApp ) {
+  if (this.isFullApp) {
     this.template('gitignore', '.gitignore');
     this.copy('gitattributes', '.gitattributes');
   }
 };
 
 Generator.prototype.bower = function bower() {
-    this.template('bowerrc', '.bowerrc');
-    this.copy('_bower.json', 'bower.json');
+  this.template('bowerrc', '.bowerrc');
+  this.copy('_bower.json', 'bower.json');
 };
 
 Generator.prototype.jshint = function jshint() {
-  if( this.isFullApp ) {
+  if (this.isFullApp) {
     this.copy('jshintrc', '.jshintrc');
   }
 };
 
 Generator.prototype.editorConfig = function editorConfig() {
-  if( this.isFullApp ) {
+  if (this.isFullApp) {
     this.copy('editorconfig', '.editorconfig');
   }
 };
@@ -98,11 +101,11 @@ Generator.prototype.packageJSON = function packageJSON() {
   this.template('_package.json', 'package.json');
 };
 
-Generator.prototype.mainStylesheet = function mainStylesheet() {
-  if( this.isFullApp ) {
-      this.write('app/styles/main.css', 'body {\n    background: #fafafa;\n}\n\n.hero-unit {\n    margin: 50px auto 0 auto;\n    width: 300px;\n}');
-  }
-};
+// Generator.prototype.mainStylesheet = function mainStylesheet() {
+//   if( this.isFullApp ) {
+//       this.write('app/styles/main.css', 'body {\n    background: #fafafa;\n}\n\n.hero-unit {\n    margin: 50px auto 0 auto;\n    width: 300px;\n}');
+//   }
+// };
 
 
 Generator.prototype.bootstrapJs = function bootstrapJs() {
@@ -112,29 +115,34 @@ Generator.prototype.bootstrapJs = function bootstrapJs() {
 Generator.prototype.setupEnv = function setupEnv() {
   var _rootDir = this.isFullApp ? 'app/' : '';
 
+  //main less file
+  var _stylesDir = _rootDir + 'styles'
+  this.mkdir(_stylesDir)
+  this.copy('app/main.less', _stylesDir + '/main.less')
+  
   // templates
-  this.mkdir( _rootDir + 'templates' );
-  this.copy( 'app/welcome.hbs', _rootDir + 'templates/welcome.hbs');
+  this.mkdir(_rootDir + 'templates');
+  this.copy('app/welcome.hbs', _rootDir + 'templates/welcome.hbs');
 
   // server
-  if( this.isFullApp ) {
+  if (this.isFullApp) {
     this.mkdir('server');
     this.template('server/app.js', 'server/app.js');
   }
 
   //html
-  this.template( 'app/index.html', _rootDir + 'index.html' );
+  this.template('app/index.html', _rootDir + 'index.html');
 
   // js
-  this.mkdir( _rootDir + 'scripts' );
-  this.copy( 'app/main.js', _rootDir + 'scripts/main.js' );
-  this.template( 'app/init.js', _rootDir + 'scripts/init.js' );
-  this.copy( 'app/regionManager.js', _rootDir + 'scripts/regionManager.js' );
-  this.copy( 'app/application.js', _rootDir + 'scripts/application.js' );
-  this.copy( 'app/communicator.js', _rootDir + 'scripts/communicator.js' );
+  this.mkdir(_rootDir + 'scripts');
+  this.copy('app/main.js', _rootDir + 'scripts/main.js');
+  this.template('app/init.js', _rootDir + 'scripts/init.js');
+  this.copy('app/regionManager.js', _rootDir + 'scripts/regionManager.js');
+  this.copy('app/application.js', _rootDir + 'scripts/application.js');
+  this.copy('app/communicator.js', _rootDir + 'scripts/communicator.js');
 
   // other
-  if( this.isFullApp ) {
+  if (this.isFullApp) {
     this.mkdir('app/styles');
     this.mkdir('app/images');
     this.template('app/404.html');
@@ -144,4 +152,3 @@ Generator.prototype.setupEnv = function setupEnv() {
   }
 
 };
-
