@@ -12,13 +12,7 @@
     "mvc",
     "less"
   ],
-  "homepage": "https://github.com/joliveros/generator-marionette-less",
-  "bugs": "https://github.com/joliveros/generator-marionette-less/issues",
   "author": "José Oliveros (clone of backbone amd generator)",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://joliveros@github.com/generator-marionette-less.git"
-  },
   "dependencies": {
     "yeoman-generator": "git://github.com/mrichard/generator.git",
     "underscore.string": "~2.3.1",
