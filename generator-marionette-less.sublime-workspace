@@ -1,0 +1,1810 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-family-",
+				"font-family-Open-Sans"
+			],
+			[
+				"listview_pan",
+				"listview_panel_filter"
+			],
+			[
+				"col2-w",
+				"col2-width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"_au",
+				"_auction"
+			],
+			[
+				"_ini",
+				"_initOnSync"
+			],
+			[
+				"_el",
+				"_el_price"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"produc",
+				"product_id"
+			],
+			[
+				"_auctio",
+				"_auctionMainLayout"
+			],
+			[
+				"_prod",
+				"_productView"
+			],
+			[
+				"_icon",
+				"_icon-chevron"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Pro",
+				"ProductsView"
+			],
+			[
+				"_de",
+				"_decrVal"
+			],
+			[
+				"auction",
+				"AuctionDetailViewController"
+			],
+			[
+				"Auct",
+				"AuctionDetailViewController"
+			],
+			[
+				"app",
+				"app_controller_region"
+			],
+			[
+				"ref",
+				"refreshBalance"
+			],
+			[
+				"Bid",
+				"BidBalanceController"
+			],
+			[
+				"tran",
+				"transactionsView"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"expire",
+				"expires_in"
+			],
+			[
+				"exp",
+				"expires_in"
+			],
+			[
+				"tras",
+				"transactionsView"
+			],
+			[
+				"bacl",
+				"balance_detail"
+			],
+			[
+				"Tran",
+				"TransactionsView"
+			],
+			[
+				"trs",
+				"transactions"
+			],
+			[
+				"show",
+				"showDiscountPrices"
+			],
+			[
+				"sho",
+				"showDiscountPrices"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"log",
+				"loginUrl"
+			],
+			[
+				"redi",
+				"redirect_uri"
+			],
+			[
+				"red",
+				"redirect_uri"
+			],
+			[
+				"response",
+				"responseText"
+			],
+			[
+				"get",
+				"getAccountStorage"
+			],
+			[
+				"curre",
+				"currentTarget"
+			],
+			[
+				"ladda",
+				"ladda-bootstrap"
+			],
+			[
+				"Pay",
+				"PaymentRedirectViewTmpl"
+			],
+			[
+				"Paymen",
+				"PaymentController"
+			],
+			[
+				"cre",
+				"createTransaction"
+			],
+			[
+				"aut",
+				"authResponse"
+			],
+			[
+				"Payme",
+				"PaymentController"
+			],
+			[
+				"init",
+				"initPaymentController"
+			],
+			[
+				"vou",
+				"voucher_price"
+			],
+			[
+				"vouch",
+				"voucher_discount"
+			],
+			[
+				"has",
+				"hasDiscount"
+			],
+			[
+				"lin",
+				"linethrough"
+			],
+			[
+				"notifi",
+				"notifications_region"
+			],
+			[
+				"Not",
+				"Notification"
+			],
+			[
+				"No",
+				"Notification"
+			],
+			[
+				"Noti",
+				"NotificationsController"
+			],
+			[
+				"N",
+				"NotificationsView"
+			],
+			[
+				"voucn",
+				"voucher_discount"
+			],
+			[
+				"voucher",
+				"voucher_price"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"post",
+				"postToFeed"
+			],
+			[
+				"inter",
+				"intersection"
+			],
+			[
+				"permi",
+				"permissions"
+			],
+			[
+				"buyb",
+				"buybids:packages"
+			],
+			[
+				"Bi",
+				"BidPackagesView"
+			],
+			[
+				"budy",
+				"buybids_main"
+			],
+			[
+				"buy",
+				"buybids_main"
+			],
+			[
+				"Buy",
+				"BuyBidsLayout"
+			],
+			[
+				"layou",
+				"Layout"
+			],
+			[
+				"load",
+				"loadMainViewController"
+			],
+			[
+				"border-left",
+				"border-left-width"
+			],
+			[
+				"reset",
+				"resetClockEvent"
+			],
+			[
+				"rest",
+				"resetClockEvent"
+			],
+			[
+				"preve",
+				"prevProductEvent"
+			],
+			[
+				"next",
+				"nextProductEvent"
+			],
+			[
+				"pre",
+				"prevProductEvent"
+			],
+			[
+				"clas",
+				"class=\"no"
+			],
+			[
+				"Produc",
+				"Products"
+			],
+			[
+				"Login",
+				"LoginViewController"
+			],
+			[
+				"auctions",
+				"auctionsController"
+			],
+			[
+				"home",
+				"home_nav_price"
+			],
+			[
+				"home_na",
+				"home_nav_ending"
+			],
+			[
+				"home_nav",
+				"home_nav_popular"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"Nav",
+				"NavController"
+			],
+			[
+				"act",
+				"activateNav"
+			],
+			[
+				"Home",
+				"HomeController"
+			],
+			[
+				"Lan",
+				"LanguageController"
+			],
+			[
+				"ini",
+				"initLoginController"
+			],
+			[
+				"navbar-default-link",
+				"navbar-default-link-active-color"
+			],
+			[
+				"App",
+				"AppAccountView_tmpl"
+			],
+			[
+				"accou",
+				"account"
+			],
+			[
+				"Face",
+				"AppFacebookAccountView"
+			],
+			[
+				"appfa",
+				"AppFacebookAccountInfo_tmpl"
+			],
+			[
+				"auth",
+				"authResponse"
+			],
+			[
+				"lo",
+				"log	JS - Log to console"
+			],
+			[
+				"login",
+				"loginFacebook"
+			],
+			[
+				"star",
+				"startWithParent"
+			],
+			[
+				"region",
+				"regionManager"
+			],
+			[
+				"re",
+				"regionManager"
+			],
+			[
+				"Fac",
+				"FacebookLogin_tmpl"
+			],
+			[
+				"face",
+				"FacebookLogin_tmpl"
+			],
+			[
+				"L",
+				"LoginController"
+			],
+			[
+				"btn-fac",
+				"btn-facebook-border"
+			],
+			[
+				"btn-face",
+				"btn-facebook-bg"
+			],
+			[
+				"inver",
+				"inverse-color"
+			],
+			[
+				"bower",
+				"bowerDirectory"
+			],
+			[
+				"serv",
+				"serverOptions"
+			],
+			[
+				"ser",
+				"serverOptions"
+			],
+			[
+				"less",
+				"lessMiddleware"
+			],
+			[
+				"style",
+				"stylesDir"
+			],
+			[
+				"large",
+				"largestDist"
+			],
+			[
+				"cate",
+				"categoryUrl"
+			],
+			[
+				"db",
+				"dbCount"
+			],
+			[
+				"pri",
+				"pricePoints"
+			],
+			[
+				"categ",
+				"categoryUrl"
+			],
+			[
+				"calc",
+				"calcDistFromMedian"
+			],
+			[
+				"pric",
+				"pricePoints"
+			],
+			[
+				"price",
+				"pricePoints"
+			],
+			[
+				"group",
+				"groupProductsToMedian"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"di",
+				"dist"
+			],
+			[
+				"dist",
+				"distMedianPricePoint"
+			],
+			[
+				"spe",
+				"specialPrice"
+			],
+			[
+				"in",
+				"increment"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"ca",
+				"categoryUrl"
+			],
+			[
+				"getcat",
+				"getCatAndRange"
+			],
+			[
+				"mun",
+				"munbiddbpath"
+			],
+			[
+				"queu",
+				"queueProductScrape"
+			],
+			[
+				"produ",
+				"productReviews"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"push curre",
+				"Git: Push Current Branch"
+			],
+			[
+				"quic add",
+				"Git: Quick Add"
+			],
+			[
+				"quick add",
+				"Git: Quick Add"
+			],
+			[
+				"push cure",
+				"Git: Push Current Branch"
+			],
+			[
+				"quick com",
+				"Git: Quick Commit"
+			],
+			[
+				"quiadd",
+				"Git: Quick Add"
+			],
+			[
+				"quick comm",
+				"Git: Quick Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pus cr",
+				"Git: Push Current Branch"
+			],
+			[
+				"quick ad",
+				"Git: Quick Add"
+			],
+			[
+				"quick ",
+				"Git: Quick Commit"
+			],
+			[
+				"quiadd ",
+				"Git: Quick Add"
+			],
+			[
+				"quic com",
+				"Git: Quick Commit"
+			],
+			[
+				"qui com",
+				"Git: Quick Commit"
+			],
+			[
+				"push curr",
+				"Git: Push Current Branch"
+			],
+			[
+				"quickad",
+				"Git: Quick Add"
+			],
+			[
+				"qui add",
+				"Git: Quick Add"
+			],
+			[
+				"syntax",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"quic om",
+				"Git: Quick Commit"
+			],
+			[
+				"push current",
+				"Git: Push Current Branch"
+			],
+			[
+				"quick commi",
+				"Git: Quick Commit"
+			],
+			[
+				"qadd",
+				"Git: Quick Add"
+			],
+			[
+				"quick commit",
+				"Git: Quick Commit"
+			],
+			[
+				"push curren",
+				"Git: Push Current Branch"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"quick co",
+				"Git: Quick Commit"
+			],
+			[
+				"qui comm",
+				"Git: Quick Commit"
+			],
+			[
+				"quic comm",
+				"Git: Quick Commit"
+			],
+			[
+				"quick c",
+				"Git: Quick Commit"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git log",
+				"Git: Quick Log"
+			],
+			[
+				"set html mus",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"quick log",
+				"Git: Quick Log"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"check cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git",
+				"Git: Log"
+			],
+			[
+				"first commit",
+				"Git-flow: Hotfix Start From Commit"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"log",
+				"Git: Quick Log"
+			],
+			[
+				"git quick commit",
+				"Git: Quick Commit"
+			],
+			[
+				"git quick add",
+				"Git: Quick Add"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"commit",
+				"Git: Quick Commit"
+			],
+			[
+				"qui",
+				"Git: Quick Add"
+			],
+			[
+				"quickadd",
+				"Git: Quick Add"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Quick Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Picker: Insert Color"
+			],
+			[
+				"colo",
+				"Color Picker: Insert Color"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"gitstatus",
+				"Git: Status"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sudo /Library/LaunchDaemons/org.mongo.mongod.plist",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/me6/Documents/myhq/todo.gl/package.json",
+		"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups/main_notifications_rejected_task_view.html",
+		"/Users/me6/Documents/myhq/todo.gl/.gitignore",
+		"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups/main_notifications_completed_task_view.html",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/listview_panel_controls.less",
+		"/Users/me6/Documents/myhq/todo.gl/bower.json",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/main.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/listview_panel_filter.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups/main.html",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/page-sidebar.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/navbar.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/panel_main.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/panel_default.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups/main_notifications.html",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/spinner.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/panel_notifications.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/page_content.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups/main_signin.html",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/style-responsive.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/bower_components/font-awesome/css/font-awesome.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/bower_components/bootstrap/dist/css/bootstrap.min.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/google_colors.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/themes/light.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/variables.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/bower_components/bootstrap/less/navbar.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/fonts.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/pages/search.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/style.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/style-metronic.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/bower_components/font-awesome/css/font-awesome.min.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/pages/profile.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/main.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/_style-metronic.less",
+		"/Users/me6/Downloads/metronic_1.5.3/metronic_1.5.3_bootstrap3.0/admin/template_content/assets/css/style-metronic.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/themes/light.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/style-responsive.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/style.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/themes/blue.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/themes/brown.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/themes/default.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/themes/grey.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/themes/purple.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups/assets/default.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/pages/login-soft.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/pages/lock.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/pages/inbox.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/pages/coming-soon.css",
+		"/Users/me6/Documents/myhq/todo.gl/app/bower_components/requirejs/docs/optimization.html",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/navbar_account.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/bower_components/font-awesome/less/icons.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups/_main.html",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/main_menu.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/css/themes/default.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/config.less",
+		"/Users/me6/Documents/myhq/todo.gl/readme.md",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/panels.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/styles/main_container.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/bower_components/bootstrap/less/grid.less",
+		"/Users/me6/Documents/myhq/todo.gl/app/index.html",
+		"/Users/me6/Documents/munbid.application/app/styles/config.less",
+		"/Users/me6/Documents/munbid.application/app/styles/main.less",
+		"/Users/me6/Documents/munbid.application/package.json",
+		"/Users/me6/Documents/munbid.application/app/bower_components/bootstrap/less/utilities.less",
+		"/Users/me6/Documents/munbid.application/app/scripts/template/helpers/currency.js",
+		"/Users/me6/Documents/munbid.application/app/img/art/munbid-application_files/currency.js",
+		"/Users/me6/Documents/munbid.application/app/templates/layout/Auction.Layout.hbs",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/layout/Auction.Layout.js",
+		"/Users/me6/Documents/munbid.application/.gitignore",
+		"/Users/me6/Documents/munbid.application/app/templates/App.Login.Account.View.hbs",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Auction.Main.Controls.View.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/controllers/Bid.Balance.Controller.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/controllers/Primus.Controller.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Balance.Summary.View.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/template/helpers/fullname.js",
+		"/Users/me6/Documents/munbid.application/app/templates/item/Auction.Main.Controls.View.hbs",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/layout/Auction.Main.Layout.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/controllers/Auction.Controller.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Product.Detail.View.js",
+		"/Users/me6/Documents/munbid.application/app/img/art/munbid-application_files/Product.Detail.View.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Nav.Bid.Balance.View.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/primus.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/controllers/Auction.Detail.View.Controller.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/layout/Auction.Detail.Layout.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/application.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/controllers/App.Controller.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Product.Carousel.View.js",
+		"/Users/me6/Documents/munbid.application/app/templates/layout/Auction.Detail.Layout.hbs",
+		"/Users/me6/Documents/munbid.application/app/templates/item/Product.Detail.View.hbs",
+		"/Users/me6/Documents/munbid.application/app/templates/layout/Auction.Main.Layout.hbs",
+		"/Users/me6/Documents/munbid.application/app/scripts/models/Product.Carousel.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/controllers/Payment.Controller.js",
+		"/Users/me6/Documents/munbid.application/app/bower_components/bootstrap/less/alerts.less",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/collections/Products.Carousel.View.js",
+		"/Users/me6/Documents/munbid.application/app/templates/item/Product.Thumbnail.Detail.View_tmpl.hbs",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Product.Thumbnail.Detail.View.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/collections/Products.js",
+		"/Users/me6/Documents/munbid.application/app/templates/item/Product.Carousel.View.hbs",
+		"/Users/me6/Documents/munbid.application/app/bower_components/bootstrap/less/variables.less",
+		"/Users/me6/Documents/munbid.application/app/scripts/backboneOverrides.js",
+		"/Users/me6/Documents/munbid.application/app/bower_components/backbone-amd/backbone.js",
+		"/Users/me6/Documents/munbid.application/app/bower_components/backbone/backbone.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/collection/Products.Carousel.View.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/models/Auction.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/routers/App.Router.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/reqres.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/models/Product.js",
+		"/Users/me6/Documents/munbid.application/app/styles/time.less",
+		"/Users/me6/Documents/munbid.application/app/scripts/models/Expiration.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/models/expiration.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/controllers/App.Home.Controller.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/layout/App.Home.Layout.js",
+		"/Users/me6/Documents/munbid.application/app/templates/item/Transaction.View.hbs",
+		"/Users/me6/Documents/munbid.application/app/templates/item/Auction.Detail.View.hbs",
+		"/Users/me6/Documents/munbid.application/app/scripts/controllers/App.Login.Controller.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Auction.Detail.View.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/models/Account.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/init.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/layout/Balance.Layout.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/views/item/Transaction.View.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/template/helpers/paymentstate.js",
+		"/Users/me6/Documents/munbid.application/bower.json",
+		"/Users/me6/Documents/munbid.application/app/scripts/commands.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/i18n/es_MX.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/i18n/en_US.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/template/helpers/Date.js",
+		"/Users/me6/Documents/munbid.application/app/scripts/models/BidBalance.js",
+		"/Users/me6/Documents/munbid.application/app/templates/Transactions.View.hbs"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/me6/Documents/myhq/todo.gl/package.json",
+			"*package.json",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles/",
+			"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups/",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles",
+			"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles/css/themes/light.less",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles/css/theme/light.less",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles/css/style.less",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles/css",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles",
+			"/Users/me6/Documents/myhq/todo.gl/app/ui_mockups",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles",
+			"/Users/me6/Documents/myhq/todo.gl/app/",
+			"/Users/me6/Documents/myhq/todo.gl/app/bower_components/font-awesome/",
+			"/Users/me6/Documents/myhq/todo.gl/app/bower_components/bootstrap/",
+			"/Users/me6/Documents/myhq/todo.gl/app/bower_components/bootstrap",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles/",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles/css/",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles/css/*",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles/css",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles",
+			"/Users/me6/Documents/myhq/todo.gl/app/bower_components/bootstrap",
+			"/Users/me6/Documents/myhq/todo.gl/bower_components/bootstrap",
+			"/Users/me6/Documents/myhq/todo.gl/app/styles",
+			"/Users/me6/Documents/myhq/todo.gl/app/",
+			"/Users/me6/Documents/myhq/todo.gl/app/,-/Users/me6/Documents/myhq/todo.gl/app/bower*",
+			"/Users/me6/Documents/munbid.application/app/,-/Users/me6/Documents/munbid.application/app/bower*",
+			"/Users/me6/Documents/munbid.application/app/",
+			"/Users/me6/Documents/munbid.application/app/scripts",
+			"/Users/me6/Documents/munbid.application/scripts",
+			"/Users/me6/Documents/munbid.application",
+			"/Users/me6/Documents/munbid.application,-*/Users/me6/Documents/munbid.application/node_modules ",
+			"/Users/me6/Documents/munbid.application,-*/Users/me6/Documents/munbid.application/node_modules -*raw-files*",
+			"/Users/me6/Documents/munbid.application,-*/Users/me6/Documents/munbid.application/node_modules",
+			"/Users/me6/Documents/munbid.application -/Users/me6/Documents/munbid.application/node_modules",
+			"/Users/me6/Documents/munbid.application",
+			"/Users/me6/Documents/munbid.application,-*/node_modules, -*/bower_components",
+			"/Users/me6/Documents/munbid.application,-*node_modules, -*bower_components",
+			"/Users/me6/Documents/munbid.application,-*node_modules",
+			"/Users/me6/Documents/bbclonemail/public/javascripts/bbclonemail",
+			"/Users/me6/Documents/munbid.productRank.application,-/Users/me6/Documents/munbid.productRank.application/node_modules",
+			"/Users/me6/Documents/generator-munbid , -/Users/me6/Documents/generator-munbid/node_modules/*",
+			"/Users/me6/Documents/generator-munbid , -/Users/me6/Documents/generator-munbid/node_modules/",
+			"/Users/me6/Documents/generator-munbid , - /Users/me6/Documents/generator-munbid/node_modules/",
+			"/Users/me6/Documents/generator-munbid , - /Users/me6/Documents/generator-munbid/node_modules",
+			"/Users/me6/Documents/generator-munbid",
+			"/Users/me6/Documents/project/scripts",
+			"/Users/me6/Documents/project",
+			"/Users/me6/Documents/generator-munbid",
+			"/Users/me6/Documents/utilities.generator.webapp",
+			"/Users/me6/Documents/project",
+			"/Users/me6/Documents/munbid.productRank.application",
+			"/,/Users/me6/Documents/munbid.productRank.application",
+			"/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"yeoman.app",
+			"testserver",
+			"serverOptions",
+			"connect",
+			"serverOptions.port",
+			"(\"[0-9a-z-]+\":[ ]?\")[~]?([0-9]+.[0-9]+.)[0-9]+\"",
+			"\"",
+			"chai",
+			"mocha",
+			"connect",
+			"clean",
+			"phantom",
+			"mocha",
+			"slimScrollDiv",
+			"slimDiv",
+			"slimDive",
+			"assets/img",
+			"font",
+			"font-weight",
+			"font",
+			"avatar",
+			".avatar",
+			"col-",
+			"_",
+			"h3",
+			"default",
+			"btn-default",
+			"default",
+			"fa-angle-down",
+			"Robert",
+			"Bob Nilson",
+			"id=\"page-sidebar\"",
+			"page-sidebar",
+			"85px",
+			"col2",
+			"color",
+			".",
+			" {",
+			"<i class=\"fa fa-square\"></i>\n          <span class=\"title\">Project_2</span>",
+			"!important",
+			"page-sidebar-menu",
+			"color:",
+			"page-sidebar-menu",
+			"ul.page-sidebar-menu",
+			"ul.page-sidebar-menu > li > a ",
+			"page-sidebar-menu",
+			"bbb",
+			"page-sidebar-menu",
+			";",
+			"<i class=\"fa fa-square\"></i>\n          <span class=\"title\">Project_1</span>",
+			"blue",
+			"50",
+			"fa-",
+			"line-height",
+			"padding-top",
+			"line-height-computed",
+			"navbar",
+			"padding-top",
+			"navbar-nav",
+			"11.5px",
+			"11.5 px",
+			".navbar-nav",
+			".navbar-nav>li>a",
+			"#000",
+			"dashboard",
+			"assets/img",
+			"assets/img/avatar",
+			"fonts/",
+			"font",
+			"fonts/fontawesome-webfont.ttf?v=4.0.3",
+			"url\\('..\\/fonts\\/([\\-.\\?\\#\\&\\=a-z0-9]+)'\\)",
+			"fonts/fontawesome-webfont.woff",
+			"url\\('..\\/fonts\\/([\\-.\\?\\#\\&\\=a-z0-9]+)'\\)",
+			"fonts/",
+			"fontawesome",
+			"fonts/",
+			"font",
+			"path",
+			"fontawesomepath",
+			"fonts/",
+			".navbar-nav .open .dropdown-menu > li ",
+			".navbar-nav .open .dropdown-menu > li > a:hover,.navbar-nav .open .dropdown-menu > li > a:focus",
+			"0",
+			".flip-scroll .flip-content:after",
+			".glyphicons-demo ul li",
+			".dashboard-stat .visual i",
+			"dashboard-stat",
+			"webkit-min-device-pixel-ratio",
+			".css",
+			"media",
+			"flip-scroll",
+			"visibility:hidden",
+			"sidebar-toggler-light",
+			"menu-toggler.png",
+			"img-paths",
+			"\\(\\\"@img-path(.+)\"\\)",
+			"img-paths",
+			"\\(\\@img-path(.+)\\)",
+			"^@img",
+			"/^@img",
+			"@img-path",
+			"(@img-path",
+			"(img-path",
+			"img-path",
+			"../../img/",
+			"sidebar-toggler",
+			"side",
+			"side-b",
+			"span",
+			"todo.gl",
+			"user",
+			"navbar",
+			"spinner",
+			"fa-css-prefix",
+			"spin",
+			"fa-",
+			"device-width",
+			"icon-",
+			"alpha",
+			"alpha	",
+			"alpha",
+			".css",
+			"css",
+			"responsive",
+			"css",
+			"page",
+			" 7",
+			"icon-bar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1$2x\"",
+			"fa-cog",
+			"Robert Lemmens",
+			"id=\"page_sidebar\"",
+			"<i class=\"fa fa-square yellow\"></i>\n          <span class=\"title\">Project_2</span>",
+			"",
+			"<i class=\"fa fa-square blue\"></i>\n          <span class=\"title\">Project_1</span>",
+			"url('@{fontawesome-font-path}$1')",
+			"(\"@{img-path}$1\")",
+			"@img-path"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 75.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-fetch":
+	{
+		"height": 100.0
+	},
+	"output.git-init":
+	{
+		"height": 100.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"project": "generator-marionette-less.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"package.json"
+			],
+			[
+				".gitigno",
+				".gitignore"
+			],
+			[
+				"variabl",
+				"app/styles/variables.less"
+			],
+			[
+				"main.less",
+				"app/styles/main.less"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"mainless",
+				"app/styles/main.less"
+			],
+			[
+				"vari",
+				"app/styles/variables.less"
+			],
+			[
+				"varia",
+				"app/styles/variables.less"
+			],
+			[
+				"main.les",
+				"app/styles/main.less"
+			],
+			[
+				"main.html",
+				"app/ui_mockups/main.html"
+			],
+			[
+				"notifhm",
+				"app/ui_mockups/main_notifications.html"
+			],
+			[
+				"notless",
+				"app/styles/panel_notifications.less"
+			],
+			[
+				"notifiless",
+				"app/styles/panel_notifications.less"
+			],
+			[
+				"colorsless",
+				"app/styles/google_colors.less"
+			],
+			[
+				"notifless",
+				"app/styles/panel_notifications.less"
+			],
+			[
+				"listviewless",
+				"app/styles/listview_panel_controls.less"
+			],
+			[
+				"variables",
+				"app/styles/variables.less"
+			],
+			[
+				"navbar",
+				"app/bower_components/bootstrap/less/navbar.less"
+			],
+			[
+				"var",
+				"app/styles/variables.less"
+			],
+			[
+				"metro",
+				"app/styles/css/style-metronic.less"
+			],
+			[
+				"style.css",
+				"app/styles/css/style.css"
+			],
+			[
+				"light.less",
+				"app/styles/css/themes/light.less"
+			],
+			[
+				"icons.less",
+				"app/bower_components/font-awesome/less/icons.less"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"style.less",
+				"app/styles/css/style.less"
+			],
+			[
+				"configless",
+				"app/styles/config.less"
+			],
+			[
+				"navbar.les",
+				"app/bower_components/bootstrap/less/navbar.less"
+			],
+			[
+				"_main",
+				"app/ui_mockups/_main.html"
+			],
+			[
+				"config.less",
+				"app/styles/config.less"
+			],
+			[
+				"mainocnter",
+				"app/styles/main_container.less"
+			],
+			[
+				"main",
+				"app/styles/main_container.less"
+			],
+			[
+				"configles",
+				"app/styles/config.less"
+			],
+			[
+				"mainmen",
+				"app/styles/main_menu.less"
+			],
+			[
+				"accountless",
+				"app/styles/navbar_account.less"
+			],
+			[
+				"account.less",
+				"app/styles/navbar_account.less"
+			],
+			[
+				"navbarless",
+				"app/styles/navbar_account.less"
+			],
+			[
+				"main_men",
+				"app/styles/main_menu.less"
+			],
+			[
+				"main_con",
+				"app/styles/main_container.less"
+			],
+			[
+				"panels.les",
+				"app/styles/panels.less"
+			],
+			[
+				"grid.less",
+				"app/bower_components/bootstrap/less/grid.less"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"navbar.less",
+				"app/bower_components/bootstrap/less/navbar.less"
+			],
+			[
+				"index.html",
+				"app/index.html"
+			],
+			[
+				"auctionlayouthbs",
+				"app/templates/layout/Auction.Layout.hbs"
+			],
+			[
+				"utili",
+				"app/bower_components/bootstrap/less/utilities.less"
+			],
+			[
+				"currencyjs",
+				"app/img/art/munbid-application_files/currency.js"
+			],
+			[
+				"auction.layou",
+				"app/templates/layout/Auction.Layout.hbs"
+			],
+			[
+				"gitigno",
+				".gitignore"
+			],
+			[
+				"bidbalancontrol",
+				"app/scripts/controllers/Bid.Balance.Controller.js"
+			],
+			[
+				"primus.js",
+				"app/scripts/primus.js"
+			],
+			[
+				"primusjs",
+				"app/scripts/primus.js"
+			],
+			[
+				"auctionlayout.js",
+				"app/scripts/views/layout/Auction.Layout.js"
+			],
+			[
+				"application",
+				"app/scripts/application.js"
+			],
+			[
+				"app.controller",
+				"app/scripts/controllers/App.Controller.js"
+			],
+			[
+				"productdetailviewjs",
+				"app/img/art/munbid-application_files/Product.Detail.View.js"
+			],
+			[
+				"appcontroller",
+				"app/scripts/controllers/App.Controller.js"
+			],
+			[
+				"auctiondet",
+				"app/scripts/views/layout/Auction.Detail.Layout.js"
+			],
+			[
+				"auctiondeta",
+				"app/scripts/controllers/Auction.Detail.View.Controller.js"
+			],
+			[
+				"paymentcontrol",
+				"app/scripts/controllers/Payment.Controller.js"
+			],
+			[
+				"config.les",
+				"app/styles/config.less"
+			],
+			[
+				"auctioncontroller",
+				"app/scripts/controllers/Auction.Controller.js"
+			],
+			[
+				"carouselhbs",
+				"app/templates/item/Product.Carousel.View.hbs"
+			],
+			[
+				"products.js",
+				"app/scripts/collections/Products.js"
+			],
+			[
+				"backbone",
+				"app/scripts/backboneOverrides.js"
+			],
+			[
+				"backo",
+				"app/scripts/backboneOverrides.js"
+			],
+			[
+				"backboneover",
+				"app/scripts/backboneOverrides.js"
+			],
+			[
+				"backbone.js",
+				"app/bower_components/backbone/backbone.js"
+			],
+			[
+				"auctioncontrol",
+				"app/scripts/controllers/Auction.Controller.js"
+			],
+			[
+				"appcontrolle",
+				"app/scripts/controllers/App.Controller.js"
+			],
+			[
+				"reqres",
+				"app/scripts/reqres.js"
+			],
+			[
+				"approuter",
+				"app/scripts/routers/App.Router.js"
+			],
+			[
+				"product.js",
+				"app/scripts/models/Product.js"
+			],
+			[
+				"timeless",
+				"app/styles/time.less"
+			],
+			[
+				"auctiocont",
+				"app/scripts/controllers/Auction.Controller.js"
+			],
+			[
+				"expiration",
+				"app/scripts/models/Expiration.js"
+			],
+			[
+				"app.router",
+				"app/scripts/routers/App.Router.js"
+			],
+			[
+				"logincontroller",
+				"app/scripts/controllers/App.Login.Controller.js"
+			],
+			[
+				"auciton",
+				"app/scripts/models/Auction.js"
+			],
+			[
+				"app.conrol",
+				"app/scripts/controllers/App.Controller.js"
+			],
+			[
+				"account.js",
+				"app/scripts/models/Account.js"
+			],
+			[
+				"init.js",
+				"app/scripts/init.js"
+			],
+			[
+				"backboneove",
+				"app/scripts/backboneOverrides.js"
+			],
+			[
+				"commands.js",
+				"app/scripts/commands.js"
+			],
+			[
+				"es_mx",
+				"app/scripts/i18n/es_MX.js"
+			],
+			[
+				"en_us",
+				"app/scripts/i18n/en_US.js"
+			],
+			[
+				"es_ms",
+				"app/scripts/i18n/es_MX.js"
+			],
+			[
+				"paymentstat",
+				"app/scripts/template/helpers/paymentstate.js"
+			],
+			[
+				"bowerjson",
+				"bower.json"
+			],
+			[
+				"tablesles",
+				"app/styles/tables.less"
+			],
+			[
+				"localstorge",
+				"app/bower_components/backbone.localstorage/backbone.localStorage.js"
+			],
+			[
+				"loginviewhbs",
+				"app/templates/App.Login.Account.View.hbs"
+			],
+			[
+				"loginview.js",
+				"test/spec/views/FacebookLoginView.js"
+			],
+			[
+				"logincontroll",
+				"app/scripts/controllers/App.Login.Controller.js"
+			],
+			[
+				"accountview.hbs",
+				"app/templates/App.Login.Account.View.hbs"
+			],
+			[
+				"backbonover",
+				"app/scripts/backboneOverrides.js"
+			],
+			[
+				"overrides",
+				"app/scripts/backboneOverrides.js"
+			],
+			[
+				"overri",
+				"app/scripts/backboneOverrides.js"
+			],
+			[
+				"transview.js",
+				"app/scripts/views/collection/Transactions.View.js"
+			],
+			[
+				"appcontrol",
+				"app/scripts/controllers/App.Controller.js"
+			],
+			[
+				"overr",
+				"app/scripts/backboneOverrides.js"
+			],
+			[
+				"balviewjs",
+				"app/scripts/controllers/Balance.View.Controller.js"
+			],
+			[
+				"login.controller",
+				"app/scripts/controllers/App.Login.Controller.js"
+			],
+			[
+				"bootles",
+				"app/bower_components/bootstrap/less/bootstrap.less"
+			],
+			[
+				"table.less",
+				"app/bower_components/bootstrap/less/tables.less"
+			],
+			[
+				"boot",
+				"app/bower_components/bootstrap/less/bootstrap.less"
+			],
+			[
+				"transview",
+				"app/scripts/views/item/Transaction.View.js"
+			],
+			[
+				"transviewjs",
+				"app/scripts/views/collection/Transactions.View.js"
+			],
+			[
+				"transhbs",
+				"app/templates/item/Transaction.View.hbs"
+			],
+			[
+				"bootless",
+				"app/bower_components/bootstrap/less/bootstrap.less"
+			],
+			[
+				"tableles",
+				"app/bower_components/bootstrap/less/tables.less"
+			],
+			[
+				"logincontrol",
+				"app/scripts/controllers/App.Login.Controller.js"
+			],
+			[
+				"overrs",
+				"app/scripts/backboneOverrides.js"
+			],
+			[
+				"applogincontroller",
+				"app/scripts/controllers/App.Login.Controller.js"
+			],
+			[
+				"transactionsview.js",
+				"app/scripts/views/collection/Transactions.View.js"
+			],
+			[
+				"balance.js",
+				"app/scripts/views/layout/Balance.Layout.js"
+			],
+			[
+				"collection.js",
+				"app/scripts/collections/collection.js"
+			],
+			[
+				"date.js",
+				"app/scripts/template/helpers/Date.js"
+			],
+			[
+				"transactionjs",
+				"app/scripts/views/collection/Transactions.View.js"
+			],
+			[
+				"transactionview.js",
+				"app/scripts/views/item/Transaction.View.js"
+			],
+			[
+				"currency.js",
+				"app/img/art/munbid-application_files/currency.js"
+			],
+			[
+				"paymetcontrol",
+				"app/scripts/controllers/Payment.Controller.js"
+			],
+			[
+				"paym",
+				"app/scripts/controllers/Payment.Controller.js"
+			],
+			[
+				"balanchs",
+				"app/templates/layout/Balance.Layout.hbs"
+			],
+			[
+				"balancelayout.js",
+				"app/scripts/views/layout/Balance.Layout.js"
+			],
+			[
+				"balancecontroller",
+				"app/scripts/controllers/Balance.View.Controller.js"
+			],
+			[
+				"balancehbs",
+				"app/templates/layout/Balance.Layout.hbs"
+			],
+			[
+				"packageviewjs",
+				"app/scripts/views/item/Bid.Package.View.js"
+			],
+			[
+				"buybids.controll",
+				"app/scripts/controllers/BuyBids.Controller.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/munbid.productRank.application/munbid.productRank.Application.sublime-project"
+			],
+			[
+				"proj",
+				"~/Documents/project/project.sublime-project"
+			],
+			[
+				"proje",
+				"~/Documents/project/project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

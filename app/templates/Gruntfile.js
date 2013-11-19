@@ -28,12 +28,6 @@ module.exports = function (grunt) {
 
         // watch list
         watch: {
-            <% if(isFullApp){ %>
-            compass: {
-                files: ['<%%= yeoman.app %>/styles/{,*/}*.{scss,sass}'],
-                tasks: ['compass']
-            },
-            <%}%>
             livereload: {
                 files: [
                     <% if(isFullApp){ %>
@@ -89,7 +83,9 @@ module.exports = function (grunt) {
             },
             dev: {
                 options: {
-                    script: 'server/app.js'
+                    script: 'server/app.js',
+                    node_env: 'development',
+                    args: ['<%%= yeoman.app %>']
                 }
             },
             prod: {
@@ -130,27 +126,6 @@ module.exports = function (grunt) {
                 'test/spec/{,*/}*.js'
             ]
         },
-
-        <% if(isFullApp){ %>
-        // compass
-        compass: {
-            options: {
-                sassDir: '<%%= yeoman.app %>/styles',
-                cssDir: '.tmp/styles',
-                imagesDir: '<%%= yeoman.app %>/images',
-                javascriptsDir: '<%%= yeoman.app %>/scripts',
-                fontsDir: '<%%= yeoman.app %>/styles/fonts',
-                importPath: 'app/<%= bowerDirectory %>',
-                relativeAssets: true
-            },
-            dist: {},
-            server: {
-                options: {
-                    debugInfo: true
-                }
-            }
-        },
-        <%}%>
 
         // require
         requirejs: {
@@ -297,7 +272,6 @@ module.exports = function (grunt) {
 
         grunt.task.run([
             'clean:server',
-            <% if(isFullApp){ %>'compass:server',<%}%>
             'connect:testserver',
             <% if(isFullApp){ %>'express:dev',<%}%>
             'exec',
@@ -311,7 +285,6 @@ module.exports = function (grunt) {
         'clean:server',
         'createDefaultTemplate',
         'handlebars',
-        'compass',
         'connect:testserver',
         'exec:mocha'
     ]);
@@ -319,7 +292,6 @@ module.exports = function (grunt) {
     grunt.registerTask('build', [
         'createDefaultTemplate',
         'handlebars',
-        'compass:dist',
         'useminPrepare',
         'requirejs',
         'imagemin',

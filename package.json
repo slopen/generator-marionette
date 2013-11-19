@@ -1,7 +1,7 @@
 {
-  "name" : "generator-marionette",
-  "description": "Yeoman generator for Express, Marionette and Backbone with AMD",
-  "version" : "0.1.5",
+  "name" : "generator-marionette-less",
+  "description": "Yeoman generator for Express, Marionette, Backbone with AMD, LESS compiler",
+  "version" : "0.1.0",
   "keywords": [
     "yeoman-generator",
     "yeoman",
@@ -9,14 +9,15 @@
     "marionette",
     "backbone",
     "framework",
-    "mvc"
+    "mvc",
+    "less"
   ],
-  "homepage": "https://github.com/mrichard/generator-marionette",
-  "bugs": "https://github.com/mrichard/generator-marionette/issues",
-  "author": "Michel Richard (clone of backbone amd generator)",
+  "homepage": "https://github.com/joliveros/generator-marionette-less",
+  "bugs": "https://github.com/joliveros/generator-marionette-less/issues",
+  "author": "José Oliveros (clone of backbone amd generator)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrichard/generator-marionette.git"
+    "url": "https://github.com/joliveros/generator-marionette-less.git"
   },
   "dependencies": {
     "yeoman-generator": "git://github.com/mrichard/generator.git",

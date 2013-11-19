@@ -1,4 +1,4 @@
-generator-marionette
+generator-marionette-less
 ======================
 
 Yeoman generator for Express, Marionette and Backbone with AMD
@@ -8,7 +8,7 @@ Stack
 - Server: 
     * Node: http://nodejs.org/
     * Express: http://expressjs.com/
-    * Socket IO: http://socket.io/
+    * Primus: https://github.com/primus/primus
 - DB: Mongo: http://www.mongodb.org/
 - ODM: Mongoose: http://mongoosejs.com
 - Client: 
@@ -19,9 +19,8 @@ Stack
     * Handlebars: 
         - http://handlebarsjs.com/
         - https://github.com/SlexAxton/require-handlebars-plugin
-    * SASS-Bootstrap:
-        - http://twitter.github.io/bootstrap
-        - https://github.com/thomas-mcdonald/bootstrap-sass
+    * LESS-Bootstrap:
+        - https://github.com/twbs/bootstrap
 - Tooling: 
     * Yeoman: http://yeoman.io/
     * Bower: http://bower.io/
@@ -99,7 +98,7 @@ Install mocha generator:
 
 Install marionette generator
 
-    $ npm install (-g) generator-marionette
+    $ npm install (-g) generator-marionette-less
 
 
 

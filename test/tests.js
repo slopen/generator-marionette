@@ -85,7 +85,6 @@ describe('Backbone AMD generator test', function () {
     ];
 
     helpers.mockPrompt(backbone, {
-      'compassBootstrap': 'Y',
       'includeRequireJS': 'Y'
     });
 

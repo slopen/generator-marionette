@@ -1,98 +1,35 @@
 'use strict';
 
-var express = require('express');
-var http = require('http');
-var path = require('path');
-var async = require('async');
-var hbs = require('express-hbs');
-<% if(useBaucis){ %>var baucis = require('baucis');<% } %>
-<% if(useSocketIO){ %>var socketIO = require('socket.io');<% } %>
-<% if(useMongoose){ %>var mongoose = require('mongoose');
+var express = require("express"),
+  lessMiddleware = require("less-middleware"),
+  expressWinston = require('express-winston'),
+  MongoDB = require('winston-mongodb').MongoDB,
+  winston = require('winston'),
+  app = express(),
+  http = require('http'),
+  path = require('path'),
+  port = parseInt(process.env.PORT, 10) || 9000
 
+  // var __dirname = '../' + process.argv[2]
+  __dirname = path.resolve(__dirname, '../app')
+  app.configure("development", function() {
+    app.use(lessMiddleware({
+      src: __dirname,
+      compress: true,
+      debug: true,
+      force: true
+    }));
+    app.use(express.static(__dirname));
+  });
+app.use(express.methodOverride());
+app.use(express.cookieParser());
+app.use(express.responseTime());
+app.use(express.bodyParser());
 
-// start mongoose
-mongoose.connect('mongodb://localhost/sit');
-var db = mongoose.connection;
-
-db.on('error', console.error.bind(console, 'connection error:'));
-db.once('open', function callback () {
-
-	/* test schema */
-    var testSchema = new mongoose.Schema({
-        test: String
-    });
-
-    var Test = mongoose.model( 'test', testSchema );
-
-    /* set Baucis */
-    baucis.rest({
-        singular: 'test'
-    });
-
-	var app = express();
-
-	app.configure(function(){
-	    app.set('port', 9000);
-
-	    app.set('view engine', 'handlebars');
-	    app.set('views', __dirname + '../app/scripts/views');
-	});
-
-    app.use('/api/v1', baucis());
-
-	// simple log
-	app.use(function(req, res, next){
-	  console.log('%s %s', req.method, req.url);
-	  next();
-	});
-
-	// mount static
-	app.use(express.static( path.join( __dirname, '../app') ));
-	app.use(express.static( path.join( __dirname, '../.tmp') ));
-
-
-	// route index.html
-	app.get('/', function(req, res){
-	  res.sendfile( path.join( __dirname, '../app/index.html' ) );
-	});
-
-	// start server
-	http.createServer(app).listen(app.get('port'), function(){
-	    console.log('Express App started!');
-	});
-});
-<% } else { %>
-
-// init express
-var app = express();
-
-app.configure(function(){
-    app.set('port', process.env.PORT || 3000);
-
-    app.set('view engine', 'handlebars');
-    app.set('views', __dirname + '../app/scripts/views');
-});
-
-// set logging
-app.use(function(req, res, next){
-  console.log('%s %s', req.method, req.url);
-  next();
-});
-
-// mount static
-app.use(express.static( path.join( __dirname, '../app') ));
-app.use(express.static( path.join( __dirname, '../.tmp') ));
-
-
-// route index.html
-app.get('/', function(req, res){
-  res.sendfile( path.join( __dirname, '../app/index.html' ) );
-});
-
-// start server
-http.createServer(app).listen(app.get('port'), function(){
-    console.log('Express App started!');
-});
-
-<% } %>
-
+app.get("/", function(req, res) {
+  res.redirect('/index.html');
+})
+var server = http.createServer(app)
+server.listen(port, function() {
+  console.log('express server started..');
+})
